@@ -1,10 +1,11 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   margin: 0;
   background-color: #061B01;
 }
 
 header {
+	font-family: 'Fleur De Leah', cursive;
   background-color: #061B01;
   padding: 2rem;
   text-align: center;
@@ -12,7 +13,7 @@ header {
 }
 
 nav {
-  background-color: #F0CF43;
+  background-color: #F3D968;
   padding: 0.5rem;
   text-align: center;
 }
@@ -28,9 +29,10 @@ nav a:hover {
 }
 
 main {
-  padding: 2rem;
+	font-family: 'Fleur De Leah', cursive;
+	padding: 2rem;
 	text-align: center;
-	color: #F0CF43;
+	color: #F3D968;
 }
 
 footer {
