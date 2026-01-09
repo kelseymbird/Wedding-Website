@@ -65,6 +65,28 @@ main p {
   font-size: 0.9rem;
 }
 
+.bridal-party {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 columns */
+  gap: 2rem; /* space between columns and rows */
+  justify-items: center; /* centers each member horizontally */
+  margin: 2rem 0; /* vertical spacing around the section */
+}
+
+.member h2 {
+  margin-top: 0.5rem;
+  font-family: 'WindSong', cursive; /* or Windsong */
+  font-size: 1.5rem;
+  color: #F3D968;
+}
+
+.member p {
+  margin-top: 0.25rem;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  color: #F3D968; /* optional: softer text color */
+}
+
 footer {
   text-align: center;
   padding: 1rem;
