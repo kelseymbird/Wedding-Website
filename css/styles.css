@@ -10,16 +10,14 @@ body {
 }
 
 header {
-  font-family: 'Ballet', cursive;
-  font-size: 2.5rem;
+  font-family: 'Great Vibes', cursive;
+  font-size: 2rem;
   font-weight: 400;
   background-color: #061B01;
   text-align: center;
   color: #F3D968;
   margin-top: 0.25rem;
   margin-bottom: 0.25rem;
-  line-height: 1.2;
-  letter-spacing: 0.03;
 }
 
 nav {
@@ -54,7 +52,7 @@ main {
 }
 
 main h2 {
-  font-family: 'Ballet', cursive;
+  font-family: 'Great Vibes', cursive;
   font-weight: 400;
   font-size: 4rem;
 }
