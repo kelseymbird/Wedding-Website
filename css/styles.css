@@ -43,6 +43,14 @@ main {
   color: #F3D968;
 }
 
+.title h1 {
+  margin-bottom: 0.0125rem;
+}
+
+.title p {
+  margin-top: 0.0125rem;
+}
+
 main h2 {
   font-family: 'Fleur De Leah', cursive;
   font-size: 4rem;
