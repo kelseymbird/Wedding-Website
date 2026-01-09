@@ -1,18 +1,25 @@
+html {
+	font-size: 16px;
+}
+
 body {
   font-family: 'Montserrat', sans-serif;
   margin: 0;
   background-color: #061B01;
+  font-size: 1.1rem;
 }
 
 header {
-	font-family: 'Fleur De Leah', cursive;
+  font-family: 'Fleur De Leah', cursive;
+  font-size: 3rem;
   background-color: #061B01;
   padding: 2rem;
   text-align: center;
-	color: #F3D968;
+  color: #F3D968;
 }
 
 nav {
+  font-size: 1.3rem;
   background-color: #F3D968;
   padding: 0.5rem;
   text-align: center;
@@ -29,10 +36,18 @@ nav a:hover {
 }
 
 main {
-	font-family: 'Fleur De Leah', cursive;
-	padding: 2rem;
-	text-align: center;
-	color: #F3D968;
+  font-family: 'Fleur De Leah', cursive;
+  padding: 2rem;
+  text-align: center;
+  color: #F3D968;
+}
+
+main h2 {
+  font-size: 2rem;
+}
+
+main p {
+  font-size: 1rem;
 }
 
 footer {
