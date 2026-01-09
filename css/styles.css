@@ -8,6 +8,7 @@ header {
   background-color: #061B01;
   padding: 2rem;
   text-align: center;
+	color: #F3D968;
 }
 
 nav {
@@ -17,7 +18,7 @@ nav {
 }
 
 nav a {
-  color: black;
+  color: #061B01;
   margin: 0 1rem;
   text-decoration: none;
 }
@@ -35,5 +36,5 @@ main {
 footer {
   text-align: center;
   padding: 1rem;
-  color: #777;
+  color: #F3D968;
 }
