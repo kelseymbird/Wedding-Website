@@ -11,7 +11,7 @@ body {
 
 header {
   font-family: 'Fleur De Leah', cursive;
-  font-size: 3rem;
+  font-size: 2.5rem;
   background-color: #061B01;
   padding: 2rem;
   text-align: center;
@@ -36,18 +36,18 @@ nav a:hover {
 }
 
 main {
-  font-family: 'Fleur De Leah', cursive;
   padding: 2rem;
   text-align: center;
   color: #F3D968;
 }
 
 main h2 {
-  font-size: 2rem;
+  font-family: 'Fleur De Leah', cursive;
+  font-size: 2.5rem;
 }
 
 main p {
-  font-size: 1rem;
+  font-size: 2rem;
 }
 
 footer {
