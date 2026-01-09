@@ -18,6 +18,8 @@ header {
   color: #F3D968;
   margin-top: 0.25rem;
   margin-bottom: 0.25rem;
+  line-height: 1.2;
+  letter-spacing: 0.03;
 }
 
 nav {
