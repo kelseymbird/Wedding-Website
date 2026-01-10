@@ -91,7 +91,7 @@ h1 {
   font-family: 'WindSong', cursive;
 }
 
-body {
+.section-with-bg {
   background-image: url("../images/bottom-big.png");
   background-repeat: no-repeat;
 
