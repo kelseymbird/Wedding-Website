@@ -92,7 +92,7 @@ h1 {
 }
 
 .section-with-bg {
-  background-image: url("../images/floral-bottom.png");
+  background-image: url("../images/bottom-big.png");
   background-repeat: no-repeat;
 
   /* center horizontally, stick to bottom */
