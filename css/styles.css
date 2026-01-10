@@ -91,6 +91,18 @@ h1 {
   font-family: 'WindSong', cursive;
 }
 
+.section-with-bg {
+  background-image: url("../images/floral-bottom.png");
+  background-repeat: no-repeat;
+
+  /* center horizontally, stick to bottom */
+  background-position: center bottom;
+
+  /* make it as big as possible without distortion */
+  background-size: contain;
+}
+
+
 footer {
   text-align: center;
   padding: 1rem;
