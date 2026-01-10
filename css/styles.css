@@ -134,6 +134,7 @@ h1 {
   top: 0;             /* position at the top instead of bottom */
   right: 0;          /* center horizontally */
   width: 46%;         /* bigger than the bottom corners */
+  z-index: 0;
 }
 
 footer {
