@@ -43,6 +43,10 @@ main {
   color: #F3D968;
 }
 
+.title {
+  padding: 2rem;
+}
+
 .title h2 {
   margin-bottom: 0.01rem;
   margin-top: 0.01rem;
