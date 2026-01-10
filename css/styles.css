@@ -54,6 +54,7 @@ main {
 
 .title p {
   margin-top: 0.01rem;
+  font-size: 1.2rem;
 }
 
 main h2 {
@@ -65,11 +66,11 @@ main h2 {
 }
 
 .countdown-section h2 {
-  margin-bottom: 0.05rem;
+  margin-bottom: 0.1rem;
 }
 
 main p {
-  font-size: 0.9rem;
+  font-size: 1.2rem;
 }
 
 .bridal-party {
@@ -126,7 +127,6 @@ h1 {
 
 .site-header {
   position: relative; /* needed for absolute positioning inside */
-  padding: 4rem 2rem;
   text-align: center;
 }
 
