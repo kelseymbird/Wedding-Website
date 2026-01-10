@@ -105,16 +105,16 @@ h1 {
   opacity: 1;
   pointer-events: none;
   /* max-width: 300px; */
-  width: 40%;
+  width: 45%;
   z-index: -1;
 }
 
 .corner.left {
-  left: 10px;
+  left: 20px;
 }
 
 .corner.right {
-  right: 10px;
+  right: 30px;
 }
 
 footer {
