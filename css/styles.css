@@ -91,17 +91,25 @@ h1 {
   font-family: 'WindSong', cursive;
 }
 
-.section-with-bg {
-  background-image: url("../images/bottom-big.png");
-  background-repeat: no-repeat;
-
-  /* center horizontally, stick to bottom */
-  background-position: center bottom;
-
-  /* make it as big as possible without distortion */
-  background-size: contain;
+.page-wrapper {
+  position: relative;
 }
 
+.corner {
+  position: absolute;
+  bottom: 0;
+  opacity: 1;
+  pointer-events: none;
+  z-index: -1;
+}
+
+.corner.left {
+  left: 0;
+}
+
+.corner.right {
+  right: 0;
+}
 
 footer {
   text-align: center;
