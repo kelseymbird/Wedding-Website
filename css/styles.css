@@ -128,11 +128,13 @@ h1 {
 .corner.left-side {
   bottom: 0;
   left: 0;
+  width: 50%
 }
 
 .corner.right-side {
   bottom: 0;
   right: 0;
+  width: 150%;
 }
 
 .site-header {
