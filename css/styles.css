@@ -125,6 +125,16 @@ h1 {
   right: 35px;
 }
 
+.corner.left-side {
+  bottom: 0;
+  left: 0;
+}
+
+.corner.right-side {
+  bottom: 0;
+  right: 0;
+}
+
 .site-header {
   position: relative; /* needed for absolute positioning inside */
   text-align: center;
