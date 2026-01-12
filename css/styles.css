@@ -164,6 +164,28 @@ h1 {
   height: auto;
 }
 
+.registry {
+  text-align: center;
+  padding: 4rem 2rem;
+}
+
+.registry-button {
+  display: inline-block;
+  margin-top: 2rem;
+  padding: 1rem 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  background-color: #F3D968; /* match your palette */
+  color: #061B01;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+.registry-button:hover {
+  opacity: 0.9;
+}
+
+
 footer {
   text-align: center;
   padding: 1rem;
