@@ -174,14 +174,14 @@ h1 {
 .corner.side-right {
   top: 0;
   right: 0;
-  width: 60rem;
+  width: 65rem;
   z-index: -1;
 }
 
 .corner.side-left {
   top: 0;
   left: 0;
-  width: 60rem;
+  width: 65rem;
   z-index: -1;
 }
 
@@ -206,6 +206,26 @@ h1 {
   opacity: 0.9;
 }
 
+.rsvp {
+  text-align: center;
+  padding: 4rem 2rem;
+}
+
+.rsvp-button {
+  display: inline-block;
+  margin-top: 2rem;
+  padding: 1rem 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  background-color: #F3D968; /* match your palette */
+  color: #061B01;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+.rsvp-button:hover {
+  opacity: 0.9;
+}
 
 footer {
   text-align: center;
