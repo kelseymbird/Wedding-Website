@@ -171,6 +171,20 @@ h1 {
   height: auto;
 }
 
+.corner.side-right {
+  top: 0;
+  right: 0;
+  width: 60rem;
+  z-index: -1;
+}
+
+.corner.side-left {
+  top: 0;
+  left: 0;
+  width: 60rem;
+  z-index: -1;
+}
+
 .registry {
   text-align: center;
   padding: 4rem 2rem;
