@@ -111,30 +111,30 @@ h1 {
   opacity: 1;
   pointer-events: none;
   /* max-width: 300px; */
-  width: 46%;
+  width: 46rem;
   z-index: -1;
 }
 
 .corner.left {
   bottom: 0;
-  left: 35px;
+  left: 2.1875rem;
 }
 
 .corner.right {
   bottom: 0;
-  right: 35px;
+  right: 2.1875rem;
 }
 
 .corner.left-side {
   bottom: 0;
   left: 0;
-  width: 60%
+  width: 60rem;
 }
 
 .corner.right-side {
   bottom: 0;
   right: 0;
-  width: 60%;
+  width: 60rem;
 }
 
 .site-header {
@@ -145,7 +145,7 @@ h1 {
 .corner.top {
   top: 0;             /* position at the top instead of bottom */
   right: 0;          /* center horizontally */
-  width: 46%;         /* bigger than the bottom corners */
+  width: 46rem;       /* bigger than the bottom corners */
   z-index: 0;
 }
 
