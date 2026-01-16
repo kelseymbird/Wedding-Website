@@ -185,18 +185,9 @@ h1 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 80rem;     /* adjust size here */
+  width: 60rem;     /* adjust size here */
   height: auto;
 }
-
-.reg-top {
-  margin-bottom: 1rem;
-}
-
-.reg-bottom {
-  margin-top: 1rem;
-}
-
 
 .corner.side-right {
   top: 0;
