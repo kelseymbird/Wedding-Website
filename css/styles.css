@@ -23,6 +23,11 @@ header {
   color: #F3D968;
   margin-top: 0.25rem;
   margin-bottom: 0.25rem;
+
+  background-image: url("../images/bg-full.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; /* fills whole site, distortion allowed */
 }
 
 nav {
@@ -150,14 +155,14 @@ h1 {
 .corner.top-right {
   top: 0;             /* position at the top instead of bottom */
   right: 0;          /* center horizontally */
-  width: 46rem;       /* bigger than the bottom corners */
+  width: 40rem;       /* bigger than the bottom corners */
   z-index: 0;
 }
 
 .corner.top-left {
   top: 0;
   left: 0;
-  width: 46rem;
+  width: 40rem;
   z-index: 0;
 }
 
