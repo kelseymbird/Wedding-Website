@@ -183,7 +183,6 @@ h1 {
 .corner.top {
   top: 0;
   left: 50%;
-  transform: translate(-45%, 0%);
   height: auto;
   width: 80rem;
 }
@@ -191,7 +190,6 @@ h1 {
 .corner.bottom {
   bottom: 0;
   left: 50%;
-  transform: translate(-45%, 0%);
   height: auto;
   width: 80rem;
 }
