@@ -178,7 +178,22 @@ h1 {
   height: auto;
   z-index: -1;
   width: 65%;
+}
+
+.corner.top {
+  top: 0;
+  left: 50%;
+  transform: translate(-45%, 0%);
   height: auto;
+  width: 80rem;
+}
+
+.corner.bottom {
+  bottom: 0;
+  left: 50%;
+  transform: translate(-45%, 0%);
+  height: auto;
+  width: 80rem;
 }
 
 .corner.side-right {
