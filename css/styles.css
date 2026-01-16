@@ -155,14 +155,14 @@ h1 {
 .corner.top-right {
   top: 0;             /* position at the top instead of bottom */
   right: 0;          /* center horizontally */
-  width: 45rem;       /* bigger than the bottom corners */
+  width: 43rem;       /* bigger than the bottom corners */
   z-index: 0;
 }
 
 .corner.top-left {
   top: 0;
   left: 0;
-  width: 45rem;
+  width: 43rem;
   z-index: 0;
 }
 
@@ -182,14 +182,14 @@ h1 {
 
 .corner.top {
   top: 0;
-  left: 50%;
+  left: 10%;
   height: auto;
   width: 80rem;
 }
 
 .corner.bottom {
-  bottom: 0;
-  left: 50%;
+  top: 80%;
+  left: 10%;
   height: auto;
   width: 80rem;
 }
