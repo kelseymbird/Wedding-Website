@@ -180,19 +180,23 @@ h1 {
   width: 65%;
 }
 
-.corner.top {
-  top: 0;
-  left: 10%;
+.reg-top,
+.reg-bottom {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80rem;     /* adjust size here */
   height: auto;
-  width: 80rem;
 }
 
-.corner.bottom {
-  top: 80%;
-  left: 10%;
-  height: auto;
-  width: 80rem;
+.reg-top {
+  margin-bottom: 1rem;
 }
+
+.reg-bottom {
+  margin-top: 1rem;
+}
+
 
 .corner.side-right {
   top: 0;
