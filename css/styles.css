@@ -7,6 +7,11 @@ body {
   margin: 0;
   background-color: #061B01;
   font-size: 1.1rem;
+
+  background-image: url("../images/bg-full.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; /* fills whole site, distortion allowed */
 }
 
 header {
