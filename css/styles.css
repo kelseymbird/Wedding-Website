@@ -136,14 +136,14 @@ h1 {
 
 .travel h3 {
   font-family: 'WindSong', cursive;
-  font-size: 5rem;
+  font-size: 3.5rem;
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
 
 .travel p {
   font-family: 'Montserrat', sans-serif;
-  font-size: 1rem;
+  font-size: 1.5rem;
   margin-top: 0.1rem;
 }
 
@@ -236,16 +236,16 @@ h1 {
 
 .corner.trav-left {
   top: 0;
+  bottom: 0;
   left: 0;
   z-index: -1;
-  width: 80rem;
 }
 
 .corner.trav-right {
   top: 0;
+  bottom: 0;
   right: 0;
   z-index: -1;
-  width: 80rem;
 }
 
 .registry {
