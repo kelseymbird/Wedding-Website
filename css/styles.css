@@ -192,15 +192,29 @@ h1 {
 .corner.side-right {
   top: 0;
   right: 0;
-  width: 65rem;
+  width: 55rem;
   z-index: -1;
 }
 
 .corner.side-left {
   top: 0;
   left: 0;
-  width: 65rem;
+  width: 55rem;
   z-index: -1;
+}
+
+.corner.trav-left {
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+  width: 65rem;
+}
+
+.corner.trav-right {
+  bottom: 0;
+  right: 0;
+  z-index: -1;
+  width: 65rem;
 }
 
 .registry {
