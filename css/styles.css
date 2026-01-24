@@ -130,6 +130,10 @@ h1 {
   color: #F3D968;
 }
 
+.travel {
+  position: relative;
+}
+
 .travel h3 {
   font-family: 'WindSong', cursive;
   font-size: 3rem;
@@ -200,7 +204,7 @@ h1 {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-45%, -50%);
+  transform: translate(-45%, -30%);
   height: auto;
   z-index: -1;
   width: 65%;
@@ -218,14 +222,14 @@ h1 {
 .corner.side-right {
   top: 0;
   right: 0;
-  width: 80rem;
+  width: 40rem;
   z-index: -1;
 }
 
 .corner.side-left {
   top: 0;
   left: 0;
-  width: 80rem;
+  width: 40rem;
   z-index: -1;
 }
 
@@ -282,6 +286,21 @@ h1 {
 }
 
 .rsvp-button:hover {
+  opacity: 0.9;
+}
+
+.map-button {
+  display: inline-block;
+  margin-top: 1.5rem;
+  padding: 1rem 2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  background-color: #F3D968;
+  color: #061B01;
+  border-radius: 10px;
+}
+
+.map-button:hover {
   opacity: 0.9;
 }
 
