@@ -136,14 +136,15 @@ h1 {
 
 .travel h3 {
   font-family: 'WindSong', cursive;
-  font-size: 3rem;
-  margin-top: 1rem;
+  font-size: 5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
 }
 
 .travel p {
   font-family: 'Montserrat', sans-serif;
-  font-size: 2rem;
-  margin-top: 0.5rem;
+  font-size: 1rem;
+  margin-top: 0.1rem;
 }
 
 .corner {
@@ -222,14 +223,14 @@ h1 {
 .corner.side-right {
   top: 0;
   right: 0;
-  width: 40rem;
+  width: 10rem;
   z-index: -1;
 }
 
 .corner.side-left {
   top: 0;
   left: 0;
-  width: 40rem;
+  width: 10rem;
   z-index: -1;
 }
 
@@ -237,14 +238,14 @@ h1 {
   top: 0;
   left: 0;
   z-index: -1;
-  width: 47rem;
+  width: 80rem;
 }
 
 .corner.trav-right {
   top: 0;
   right: 0;
   z-index: -1;
-  width: 47rem;
+  width: 80rem;
 }
 
 .registry {
@@ -291,12 +292,13 @@ h1 {
 
 .map-button {
   display: inline-block;
-  margin-top: 1.5rem;
+  margin-top: 1rem;
   padding: 1rem 2rem;
   font-family: 'Montserrat', sans-serif;
   font-size: 2rem;
   background-color: #F3D968;
   color: #061B01;
+  text-decoration: none;
   border-radius: 10px;
 }
 
