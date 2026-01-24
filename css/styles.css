@@ -117,7 +117,7 @@ h1 {
 }
 
 .honor h2 {
-  margin-top: 1.5rem;
+  margin-top: 2rem;
   font-family: 'WindSong', cursive;
   font-size: 3rem;
   color: #F3D968;
@@ -128,6 +128,18 @@ h1 {
   font-family: 'Montserrat', sans-serif;
   font-size: 2rem;
   color: #F3D968;
+}
+
+.travel h3 {
+  font-family: 'WindSong', cursive;
+  font-size: 3rem;
+  margin-top: 1rem;
+}
+
+.travel p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  margin-top: 0.5rem;
 }
 
 .corner {
@@ -218,14 +230,14 @@ h1 {
 }
 
 .corner.trav-left {
-  bottom: 0;
+  top: 0;
   left: 0;
   z-index: -1;
   width: 47rem;
 }
 
 .corner.trav-right {
-  bottom: 0;
+  top: 0;
   right: 0;
   z-index: -1;
   width: 47rem;
