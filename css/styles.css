@@ -192,14 +192,14 @@ h1 {
 .corner.side-right {
   top: 0;
   right: 0;
-  width: 55rem;
+  width: 80rem;
   z-index: -1;
 }
 
 .corner.side-left {
   top: 0;
   left: 0;
-  width: 55rem;
+  width: 80rem;
   z-index: -1;
 }
 
@@ -207,14 +207,14 @@ h1 {
   bottom: 0;
   left: 0;
   z-index: -1;
-  width: 65rem;
+  width: 30rem;
 }
 
 .corner.trav-right {
   bottom: 0;
   right: 0;
   z-index: -1;
-  width: 65rem;
+  width: 30rem;
 }
 
 .registry {
