@@ -95,7 +95,7 @@ main p {
   margin-top: 0.5rem;
   margin-bottom: 1rem;
   font-family: 'WindSong', cursive;
-  font-size: 3.2rem;
+  font-size: 3.7rem;
   color: #F3D968;
 }
 .member h2 {
@@ -146,12 +146,6 @@ h1 {
   font-size: 3.5rem;
   margin-top: 2rem;
   margin-bottom: 1rem;
-}
-
-.travel p {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 1.5rem;
-  margin-top: 0.1rem;
 }
 
 .corner {
@@ -251,6 +245,24 @@ h1 {
 }
 
 .corner.trav-right {
+  top: 0;
+  bottom: 0;
+  right: 0;
+  height: 100%;
+  width: auto;
+  z-index: -1;
+}
+
+.corner.faq-left {
+  top: 0;
+  bottom: 0;
+  left: 0;
+  height: 100%;
+  width: auto;
+  z-index: -1;
+}
+
+.corner.faq-right {
   top: 0;
   bottom: 0;
   right: 0;
