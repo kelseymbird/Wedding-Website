@@ -141,6 +141,12 @@ h1 {
   position: relative;
 }
 
+.travel p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.3rem;
+  margin-bottom: 2rem;
+}
+
 .travel h2 {
   font-family: 'WindSong', cursive;
   font-size: 3.5rem;
