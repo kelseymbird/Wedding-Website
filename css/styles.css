@@ -30,7 +30,7 @@ header {
   color: #F3D968;
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
-  letter-spacing: 0.075em;
+  letter-spacing: 0.0em;
 
   background-image: url("../images/bg-full.png");
   background-repeat: no-repeat;
@@ -49,7 +49,7 @@ nav {
 
 nav a {
   color: #061B01;
-  margin: 0 1rem;
+  margin: 0 2rem;
   text-decoration: none;
 }
 
