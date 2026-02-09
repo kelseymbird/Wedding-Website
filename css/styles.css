@@ -30,7 +30,7 @@ header {
   color: #F3D968;
   margin-top: 0.25rem;
   margin-bottom: 0.25rem;
-  /* letter-spacing: 1.25em; */
+  letter-spacing: 0.1em;
 
   background-image: url("../images/bg-full.png");
   background-repeat: no-repeat;
@@ -41,7 +41,7 @@ header {
 nav {
   font-size: 1.3rem;
   background-color: #F3D968;
-  padding: 0.4rem;
+  padding: 0.1rem;
   text-align: center;
 }
 
