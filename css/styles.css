@@ -28,8 +28,8 @@ header {
   background-color: #061B01;
   text-align: center;
   color: #F3D968;
-  margin-top: 0.25rem;
-  margin-bottom: 0.25rem;
+  margin-top: 0.1rem;
+  margin-bottom: 0.1rem;
   letter-spacing: 0.075em;
 
   background-image: url("../images/bg-full.png");
@@ -41,7 +41,7 @@ header {
 nav {
   font-size: 1.3rem;
   background-color: #F3D968;
-  padding: 0.5rem;
+  padding: 0.7rem;
   text-align: center;
 }
 
