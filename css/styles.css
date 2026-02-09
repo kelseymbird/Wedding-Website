@@ -204,6 +204,7 @@ h1 {
 .site-header h2 {
   margin-top: 2rem;
   margin-bottom:3rem;
+}
 
 .corner.top-right {
   top: 0;             /* position at the top instead of bottom */
