@@ -356,26 +356,34 @@ main p {
   .desktop {
     display: none;
   }
+  
+  .corner {
+    display: none;
+  }
 
-  .mobile {
+  .side-vine {
     display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 6rem;
+    background-repeat: repeat-y;
+    background-position: center top;
+    background-size: contain;
+    pointer-events: none;
+    z-index: -1;
   }
 
-  .small-left {
+  .side-vine.left {
     left: 0;
-    top: 0;
-    z-index: -1;
-    height: 20rem;
-    width: auto;
+    background-image: url("images/small-left.png");
   }
 
-  .small-right {
+  .side-vine.right {
     right: 0;
-    top: 0;
-    z-index: -1;
-    height: 20rem;
-    width: auto;
+    background-image: url("images/small-right.png");
   }
+
 
   nav {
     flex-direction: column;
