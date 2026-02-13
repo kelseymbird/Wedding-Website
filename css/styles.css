@@ -365,12 +365,14 @@ main p {
     left: 0;
     top: 0;
     z-index: -1;
+    height: 10%;
   }
 
   .small-right {
     right: 0;
     top: 0;
     z-index: -1;
+    height: 50rem;
   }
 
   nav {
