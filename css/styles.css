@@ -351,7 +351,7 @@ main p {
   opacity: 0.9;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1024px) {
 
   .desktop {
     display: none;
@@ -362,28 +362,8 @@ main p {
   }
 
   .side-vine {
-    display: block;
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    width: 6rem;
-    background-repeat: repeat-y;
-    background-position: center top;
-    background-size: contain;
-    pointer-events: none;
-    z-index: -1;
+    display: none;
   }
-
-  .side-vine.left {
-    left: 0;
-    background-image: url("../images/small-left.png");
-  }
-
-  .side-vine.right {
-    right: 0;
-    background-image: url("../images/small-right.png");
-  }
-
 
   nav {
     flex-direction: column;
