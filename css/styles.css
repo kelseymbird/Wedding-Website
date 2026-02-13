@@ -376,12 +376,12 @@ main p {
 
   .side-vine.left {
     left: 0;
-    background-image: url("images/small-left.png");
+    background-image: url("../images/small-left.png");
   }
 
   .side-vine.right {
     right: 0;
-    background-image: url("images/small-right.png");
+    background-image: url("../images/small-right.png");
   }
 
 
