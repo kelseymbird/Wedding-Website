@@ -363,10 +363,10 @@ main p {
 
   .side-vine {
     display: block;
-    position: absolute;
+    position: fixed;
     top: 0;
     bottom: 0;
-    width: 6rem;
+    width: auto;
     background-repeat: repeat-y;
     background-position: center top;
     background-size: contain;
