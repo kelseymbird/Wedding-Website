@@ -366,7 +366,7 @@ main p {
     position: fixed;
     top: 0;
     bottom: 0;
-    width: auto;
+    width: 6rem;
     background-repeat: repeat-y;
     background-position: center top;
     background-size: contain;
