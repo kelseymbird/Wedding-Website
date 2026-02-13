@@ -5,6 +5,34 @@
   font-style: normal;
 }
 
+@media (max-width: 900px) {
+
+  .corner.left {
+    content: url("images/small-left.png");
+  }
+
+  .corner.right {
+    content: url("images/small-right.png");
+  }
+
+/*  .corner.left {
+    content: url("images/floral-left-mobile.png");
+  } */
+
+  nav {
+    flex-direction: column;
+    gap: 0.8rem;
+    padding: 1rem 0;
+  }
+
+  nav a {
+    display: block;
+    padding: 0.3rem 0;
+  }
+
+}
+
+
 html {
   font-size: 16px;
 }
@@ -174,24 +202,24 @@ main p {
   z-index: -1;
 }
 
-.corner.left {
+.corner.left { /* home page decor*/
   bottom: 0;
   left: 2.1875rem;
 }
 
-.corner.right {
+.corner.right { /* home page decor */
   bottom: 0;
   right: 2.1875rem;
 }
 
-.corner.left-side {
-  bottom: 0;
+.corner.left-side {  /*header corner*/
+  top: 0;
   left: 0;
   width: 50rem;
 }
 
-.corner.right-side {
-  bottom: 0;
+.corner.right-side { /*header corner*/
+  top: 0;
   right: 0;
   width: 50rem;
 }
@@ -219,7 +247,7 @@ main p {
   position: relative;
 }
 
-.middle-image {
+.middle-image {    /* party image */
   position: absolute;
   top: 50%;
   left: 50%;
@@ -238,14 +266,14 @@ main p {
   height: auto;
 }
 
-.corner.side-right {
+.corner.side-right {  /* rsvp */
   top: 0;
   right: 0;
   width: 20rem;
   z-index: -1;
 }
 
-.corner.side-left {
+.corner.side-left {  /* rsvp */
   top: 0;
   left: 0;
   width: 20rem;
