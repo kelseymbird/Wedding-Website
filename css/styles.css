@@ -28,7 +28,7 @@ body {
 
 header {
   font-family: 'WindSong', cursive;
-  font-size: clamp(1.8rem, 4vw, 2.5rem);
+  font-size: clamp(1.5rem, 4vw, 2.5rem);
   font-weight: 400;
   background-color: #061B01;
   text-align: center;
@@ -375,6 +375,15 @@ main p {
     display: block;
     padding: 0.3rem 0;
   }
+  
+  .bridal-party {
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+
+  .member h1 { font-size: 3rem; }
+  .member h2 { font-size: 2.5rem; }
+  .member p  { font-size: 1.4rem; }
 
 }
 
