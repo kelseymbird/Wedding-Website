@@ -43,6 +43,10 @@ header {
   background-size: cover; /* fills whole site, distortion allowed */
 }
 
+.head-space {
+  letter-spacing: 0.5em;
+}
+
 nav {
   font-size: clamp(1rem, 2vw, 1,3rem);
   background-color: #F3D968;
@@ -410,7 +414,6 @@ main h2 {
 header h1 {
   font-size: 2.3rem;
 }
-
 
 }
 
