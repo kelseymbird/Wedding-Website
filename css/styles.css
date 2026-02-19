@@ -194,13 +194,13 @@ main p {
 }
 
 .corner.left-side {  /*header corner*/
-  top: 0;
+  bottom: 0;
   left: 0;
   width: 50rem;
 }
 
 .corner.right-side { /*header corner*/
-  top: 0;
+  bottom: 0;
   right: 0;
   width: 50rem;
 }
