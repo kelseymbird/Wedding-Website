@@ -299,7 +299,7 @@ main p {
 
 .corner.rsvp-bot {
   bottom: 0;
-  right: -50%;
+  right: 50%;
   z-index: -1;
   height: 60rem;
   width: auto;
