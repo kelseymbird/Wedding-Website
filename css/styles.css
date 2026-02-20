@@ -11,7 +11,7 @@
 
 
 html {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 body {
@@ -295,6 +295,15 @@ main p {
   height: 100%;
   width: auto;
   z-index: -1;
+}
+
+.corner.rsvp-bot {
+  bottom: 0;
+  right: 0;
+  transform: translate(-50%, 0%);
+  z-index: -1;
+  height: 20rem;
+  width: auto;
 }
 
 .registry {
