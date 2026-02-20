@@ -298,8 +298,10 @@ main p {
 }
 
 .corner.rsvp-bot {
+  position: absolute;
   bottom: 0;
-  right: 50%;
+  left: 50%;
+  transform: translateX(-50%);
   z-index: -1;
   height: 60rem;
   width: auto;
