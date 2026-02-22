@@ -307,6 +307,10 @@ main p {
   width: auto;
 }
 
+.sched h2 {
+  padding-bottom: 0;
+}
+
 .registry {
   text-align: center;
   padding: 4rem 2rem;
