@@ -78,6 +78,10 @@ main {
   color: #F3D968;
 }
 
+.header_3 {
+  font-family: 'WindSong', cursive;
+}
+
 .title {
   padding: 3rem;
 }
