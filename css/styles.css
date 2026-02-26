@@ -78,8 +78,14 @@ main {
   color: #F3D968;
 }
 
-.header_3 {
-  font-family: 'WindSong', cursive;
+.header_3 h3 {
+  font-family: 'Monsterrat', sans-serif;
+  font-size: 20px;
+}
+
+.header_3 h2 {
+  margin-top: 0;
+  padding-top: 0.5rem;
 }
 
 .title {
