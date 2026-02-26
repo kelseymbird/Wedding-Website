@@ -80,7 +80,7 @@ main {
 
 .header_3 h3 {
   font-family: 'WindSong', cursive;
-  font-size: 30px;
+  font-size: 45px;
 }
 
 .header_3 h2 {
@@ -445,7 +445,11 @@ header h1 {
   font-size: 2.3rem;
 }
 
-}
+.header_3 {
+  font-family: 'WindSong', cursive;
+{
+
+} /*end of mobile*/
 
 footer {
   text-align: center;
